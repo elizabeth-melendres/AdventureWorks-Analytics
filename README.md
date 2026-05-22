@@ -1,6 +1,6 @@
 **AdventureWorks Sales Analytics | Power BI Project**
 
-Descripción del Proyecto:
+📌Descripción del Proyecto:
 
 Este proyecto consiste en el desarrollo de un dashboard analítico en Power BI utilizando la base de datos de ejemplo AdventureWorks. El objetivo principal es transformar datos transaccionales de ventas en información útil para el análisis de negocio y la toma de decisiones.
 
